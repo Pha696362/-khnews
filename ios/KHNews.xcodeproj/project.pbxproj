@@ -806,8 +806,8 @@
 					"-ObjC",
 					"-lc++",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.phsartech.khnews;
-				PRODUCT_NAME = KHNews;
+				PRODUCT_BUNDLE_IDENTIFIER = com.phsartech.yeaksanews;
+				PRODUCT_NAME = Yeaksanews;
 				VERSIONING_SYSTEM = "apple-generic";
 			};
 			name = Debug;
@@ -825,8 +825,8 @@
 					"-ObjC",
 					"-lc++",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.phsartech.khnews;
-				PRODUCT_NAME = KHNews;
+				PRODUCT_BUNDLE_IDENTIFIER = com.phsartech.yeaksanews;
+				PRODUCT_NAME = Yeaksanews;
 				VERSIONING_SYSTEM = "apple-generic";
 			};
 			name = Release;
